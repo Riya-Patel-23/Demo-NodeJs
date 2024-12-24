@@ -1,2 +1,2 @@
 # Demo-NodeJs
-This is my First Repository on GitHub, containing a Demo Code using NodeJS!
+This is my first repository on GitHub, which contains a demo code using NodeJS!
